@@ -669,7 +669,7 @@ Copiloto
 
 ▶️ **Vídeo demonstrativo:**
 
-https://youtu.be/6L_zKpIeUrM
+https://youtube.com/shorts/OdrO1SgaBWc
 
 ---
 
