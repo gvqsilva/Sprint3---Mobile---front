@@ -850,7 +850,7 @@ Após a conclusão do processo, o APK poderá ser disponibilizado através do li
 
 > **Substitua pelo link público do APK final.**
 
-🔗 **APK:** `COLOCAR_LINK_DO_APK_AQUI`
+🔗 **APK:** https://expo.dev/accounts/vasquez021/projects/SprintMobile/builds/f3737b2e-088b-4b88-ad86-b7a573b7bec8
 
 ---
 
